@@ -12,8 +12,8 @@ Repositório para as atividades da disciplina Inteligência Artificial.
 
 | Data | Link do Diretório |
 |:----------:|:-------------------------------------------------:|
-| 24/04/2025 | [Slides](https://github.com/ClaudiaCBS/ADS06_ITE002/tree/main/backend/prova-01/README.md) |
-| 10/06/2025 | [Laboratórios](https://github.com/ClaudiaCBS/ADS06_ITE002/tree/main/frontend/backvue/README.md) |
+| 24/04/2025 | [Slides](https://github.com/ClaudiaCBS/ADS06_IIA002/tree/main/Material/README.md) |
+| 10/06/2025 | [Laboratórios](https://github.com/ClaudiaCBS/ADS06_IIA002/tree/main/Laboratorios/README.md) |
 
 
 
